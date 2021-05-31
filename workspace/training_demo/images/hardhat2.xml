@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hardhat2.jpg</filename>
+	<path>/Users/jeff/git_repo/sandbox/wu/playbox/ml/TensorFlow/workspace/training_demo/images/hardhat2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hard-hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>38</ymin>
+			<xmax>502</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
